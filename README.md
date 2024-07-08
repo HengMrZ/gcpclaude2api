@@ -63,7 +63,7 @@ The worker will handle authentication and forward your request to the Claude AI 
 ## License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
-本项目来源：https://linux.do/t/topic/118702/187
+本项目来源：[LinuxDO](https://linux.do/t/topic/118702)
 
 ## Contact
 
